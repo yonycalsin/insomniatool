@@ -1,0 +1,8 @@
+{
+  "name": "@insomniatool/tsconfig",
+  "version": "0.0.0",
+  "author": "Yony Calsin",
+  "publishConfig": {
+    "access": "public"
+  }
+}
